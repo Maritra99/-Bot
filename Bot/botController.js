@@ -1,4 +1,4 @@
-const bot = require("./config/botConfig");
+const bot = require("./botConfig");
 const botHelper = require("./botHelper");
 const commandHandler = require("../Handlers/commandHandler");
 const messageHandler = require("../Handlers/messageHandler");
